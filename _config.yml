@@ -1,0 +1,9 @@
+name: Game Automators | Summer of Code Proposals
+markdown: kramdown
+highlighter: rouge
+github: https://www.github.com/gameautomators
+about: GameAutomators is an organization that aims to motivate and help non-CS majors to enter the fields of computer vision and machine learning with the help of gaming.
+urls:
+    - text: github
+      url: https://github.com/gameautomators
+baseurl: ''
