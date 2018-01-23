@@ -2,7 +2,7 @@
 layout: post
 title:  "Proposal: Game Automation Box"
 date:   2016-01-18 00:18:23 
-categories: framework, hardware
+categories: framework
 ---
 
 |         | Details           |

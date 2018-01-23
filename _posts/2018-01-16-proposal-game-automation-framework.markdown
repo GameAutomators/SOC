@@ -2,7 +2,7 @@
 layout: post
 title:  "Proposal: Game Automation Framework for Android with Blockly/equivalent"
 date:   2016-01-16 00:18:23 
-categories: framework, systems
+categories: framework
 ---
 
 |         | Details           |

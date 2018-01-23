@@ -2,7 +2,7 @@
 layout: post
 title:  "Student Project Proposal Template"
 date:   2016-01-19 00:18:23 
-categories: template, gsoc
+categories: template
 ---
 
 We highly recommend the students to follow the template given below to submit their proposal. Please have a good title which serves as a high level 10 word summary of the project.

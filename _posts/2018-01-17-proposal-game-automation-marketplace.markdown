@@ -2,7 +2,7 @@
 layout: post
 title:  "Proposal: Game Automation Marketplace & Discussion"
 date:   2016-01-17 00:18:23 
-categories: framework, web, marketplace
+categories: framework
 ---
 
 |         | Details           |
