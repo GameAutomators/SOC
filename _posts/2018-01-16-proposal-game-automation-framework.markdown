@@ -42,3 +42,5 @@ Game Automators has been a major accomplishment in the last summer and resulted 
 7. Cloud based mobile device for downloading an App image and testing.
 
 ## Screenshots/Proposals
+
+<img src="{{ site.baseurl }}/img/framework/framework.png" alt="Mockup of the Game Automation Framework" width="100%">
