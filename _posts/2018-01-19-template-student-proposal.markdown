@@ -7,13 +7,36 @@ categories: template
 
 We highly recommend the students to follow the template given below to submit their proposal. Please have a good title which serves as a high level 10 word summary of the project.
 
-|         | Details           |
-| ------------- |:-------------:|
-| Student      | Name of the Student |
-| University      | Name of the University      |
-| Github | Link to the github profile of the student      |
-| Gitter Chat | Link to the gitter chat      |
-| Website | Link to a personal website/portfolio      |
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Student</td>
+        <td>Name of the Student</td>
+      </tr>
+      <tr>
+        <td>University</td>
+        <td>Name of the University</td>
+      </tr>
+      <tr>
+        <td>Github</td>
+        <td>Link to Github profile of the student</td>
+      </tr>
+      <tr>
+        <td>Gitter Chat</td>
+        <td>Link to the gitter chat of the student</td>
+      </tr>
+      <tr>
+        <td>Website</td>
+        <td>Link to personal website/portfolio</td>
+      </tr>
+    </tbody>
+</table>
 
 ## Organization: Game Automators
 
