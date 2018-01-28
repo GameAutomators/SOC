@@ -31,6 +31,12 @@ Game Automators has been a major accomplishment in the last summer and resulted 
 - Experience with test automation tools and frameworks.
 - Understanding of CI Systems and Build pipelines
 
+### Leveraging other open source libraries
+- OpenSTF: https://github.com/openstf
+- Electron or equivalent: https://github.com/electron
+- TKinter: https://wiki.python.org/moin/TkInter
+
+
 ## Features of Framework
 
 1. Plugin a device into the laptop or desktop.
